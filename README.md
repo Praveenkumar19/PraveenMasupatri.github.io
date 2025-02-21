@@ -5,7 +5,7 @@ I am currently pursuing my graduate degree in Cybersecurity with a profound inte
 
 ## Objective
 
-My journey in Computer Science Engineering and working in Accenture in various roles ranging from Incident Response, Application Support Analyst, Product Support Analyst and Consulting role for 4 years has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+With a background in Computer Science Engineering and 4 years of experience at Accenture, I have held diverse roles including Incident Response, Application Support, Product Support, Consulting, and Systems Administration. This journey has fueled my passion for cybersecurity, and I am now eager to transition into the field, with a focus on roles within Security Operations Centers (SOC), Threat Intelligence, Cloud Security, or Vulnerability Management. I am driven to apply my skills to enhance security operations and contribute to safeguarding digital infrastructures.
 
 ## Skills
 
