@@ -40,6 +40,7 @@ With a background in Computer Science Engineering and 4 years of experience at A
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Security%20Compliance-Certified-blue" />
+<img src="https://img.shields.io/badge/-Microsoft%20Security%20Compliance-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
